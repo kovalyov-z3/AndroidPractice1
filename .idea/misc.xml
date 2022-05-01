@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/FirstPractise/app/src/main/res/layout-land/second_activity.xml" value="0.1" />
+        <entry key="..\:/FirstPractise/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/FirstPractise/app/src/main/res/layout/activity_second.xml" value="0.21965579710144928" />
+        <entry key="..\:/FirstPractise/app/src/main/res/layout/constrait_layout.xml" value="0.21965579710144928" />
+        <entry key="..\:/FirstPractise/app/src/main/res/layout/lineral_layout.xml" value="0.1" />
+        <entry key="..\:/FirstPractise/app/src/main/res/layout/relative_layout.xml" value="0.21965579710144928" />
+        <entry key="..\:/FirstPractise/app/src/main/res/layout/second_activity.xml" value="0.21965579710144928" />
+        <entry key="..\:/FirstPractise/app/src/main/res/layout/table_layout.xml" value="0.21965579710144928" />
+        <entry key="..\:/FirstPractise/clickbuttons/src/main/res/layout/activity_main.xml" value="0.21965579710144928" />
+        <entry key="..\:/FirstPractise/layouttype/src/main/res/layout/activity_practice1.xml" value="0.2" />
+        <entry key="..\:/FirstPractise/layouttype/src/main/res/layout/constraint_layout.xml" value="0.21965579710144928" />
+        <entry key="..\:/FirstPractise/layouttype/src/main/res/layout/lineral_layout.xml" value="0.21965579710144928" />
+        <entry key="..\:/FirstPractise/layouttype/src/main/res/layout/relative_layout.xml" value="0.21965579710144928" />
+        <entry key="..\:/FirstPractise/layouttype/src/main/res/layout/table_layout.xml" value="0.21965579710144928" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
